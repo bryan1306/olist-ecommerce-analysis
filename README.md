@@ -93,8 +93,8 @@ Análisis de satisfacción
 
 Tendencias de entrega
 
-Archivo: olist.pbix
-
+📊 Dashboard Power BI:
+(https://drive.google.com/file/d/1JgyPA5n2_-80ucXqK3cmYMqMGYBd5usx/view?usp=sharing)
 👨‍💻 Autor
 bryan barriso 
 Data Analyst | Python | Power BI | SQL
